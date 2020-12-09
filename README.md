@@ -22,5 +22,8 @@ No integrated BMS is necessary as the batteries we are using have thier own.
 Problems: Plug J-Tag into the programming board (nRF9160 Dev Kit) and it would fry it. The programming board would be totally ruined. The connection chip got extremely hot. We dont understand why or what is happening. We need the communities help here. 
 
 
+Our designs are currently in the process of being open sourced and will be available to anyone who wishes to use them. We are using a https://solderpad.org/licenses/ license. 
+
+
 If anyone has any ideas of already existing boards out there that can do exactly what we want, please let me know. 
 You can reach me at shawn@lightningkite.com or text me at 801---854---0069
